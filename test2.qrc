@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>fotoğraf/icons8-user-male-60.png</file>
+    <file>fotoğraf/icons8-user-male-60.png</file>
+    <file>fotoğraf/Screenshot_11.png</file>
+    <file>fotoğraf/Screenshot_10.png</file>
+    <file>fotoğraf/Screenshot_9.png</file>
+    <file>fotoğraf/Screenshot_8.png</file>
+    <file>fotoğraf/Screenshot_7.png</file>
+    <file>fotoğraf/icons8-driver-40.png</file>
+    <file>fotoğraf/icons8-steering-wheel-96.png</file>
+    <file>fotoğraf/credit-card-icon-flat-style-illustration-vector-web-79711478.jpg</file>
+    <file>fotoğraf/images.jpg</file>
+    <file>fotoğraf/page_1.jpg</file>
+    <file>fotoğraf/icons8-travel-book-96.png</file>
+    <file>fotoğraf/icons8-travel-book-24.png</file>
+    <file>fotoğraf/uk_-sid-megabus-intercity-logo---rgb.jpg</file>
+    <file>fotoğraf/Screenshot_3.png</file>
+    <file>fotoğraf/Screenshot_4.png</file>
+    <file>fotoğraf/Screenshot_5.png</file>
+    <file>fotoğraf/Screenshot_2.png</file>
+    <file>fotoğraf/Screenshot_1.png</file>
+    <file>fotoğraf/blue-bus-14741721.jpg</file>
+    <file>fotoğraf/iconfinder_vehicles-12_809732.png</file>
+    <file>fotoğraf/icons8-bus-64.png</file>
+    <file>fotoğraf/icons8-bus-50.png</file>
+    <file>fotoğraf/icons8-key-24.png</file>
+    <file>fotoğraf/icons8-lock-24.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>image/icons8-administrator-male-26.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>fotoğraf/credit-card-icon-flat-style-illustration-vector-web-79711478.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>fotoğraf/icons8-ticket-confirmed-50.png</file>
+    <file>fotoğraf/Screenshot_6.png</file>
+  </qresource>
+</RCC>
